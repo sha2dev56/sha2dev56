@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shaghaygh👾
 
-<!--
-**sha2dev56/sha2dev56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in application development, especially backend and mobile development.
 
-Here are some ideas to get you started:
+I mainly work with Java, Spring Boot, Angular and Flutter. I also have experience with Ionic, Python, Kotlin and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+* Java / Spring Boot
+* Angular / TypeScript
+* Flutter / Dart
+* Ionic
+* Python
+* Kotlin
+* SQL
+* Git
+
+## About me
+
+I'm currently learning and working on different software projects, trying out different technologies and improving my development skills along the way.
+
+Most of my repositories are projects I've worked on while studying or experimenting with different technologies.
+
+## Projects
+
+You can find some of my projects in the repositories below, including applications built with Java, Python, Angular, Ionic and Flutter.
+
+I'm still working on improving some of them and adding new projects as I learn.
